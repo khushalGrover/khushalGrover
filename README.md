@@ -23,17 +23,17 @@ I am a student pursuing MCA with specilization in Cloud Coputing from Chandigrah
 
 <p align="left">
   
-  https://cdn-icons-png.flaticon.com/512/5969/5969294.png
   <img width="50px"  src="https://img.icons8.com/plasticine/512/github-squared.png"/>
   <img width="50px"  src="https://img.icons8.com/color/512/git.png"/>
-  <img width="45px"  src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
-  <img width="50px"  src="https://img.icons8.com/fluency/512/blender-3d.png"/>
   <img width="50px"  src="https://img.icons8.com/color/512/linux.png"/>
-  <img width="50px"  src="https://img.icons8.com/plasticine/512/bash.png"/>
+  <img width="50px"  src="https://img.icons8.com/fluency/512/blender-3d.png"/>
+  <img width="45px"  src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
+  <img width="50px"  src="https://img.icons8.com/color/512/c-sharp-logo-2.png"/>
+  <img width="50px"  src="https://img.icons8.com/color/512/c-plus-plus-logo.png"/>
   <img width="45px"  src="https://external-content.duckduckgo.com/ip3/threejs.org.ico"/>
-  <img width="45px"  src="https://img.icons8.com/color/512/c-programming.png"/>
   <img width="45px"  src="https://img.icons8.com/color/512/html-5.png"/>
   <img width="45px"  src="https://img.icons8.com/fluency/512/css3.png"/>
+  <img width="45px"  src="https://img.icons8.com/color/512/javascript.png"/>
 </p>
 <hr>
 
