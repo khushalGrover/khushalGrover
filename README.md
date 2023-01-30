@@ -65,7 +65,7 @@ I am a student pursuing MCA with specilization in Cloud Coputing from Chandigrah
 </p>
 <hr>
 
-
+    
 
 
 
