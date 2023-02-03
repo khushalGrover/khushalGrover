@@ -4,11 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi, myself Khushal Grover ;Nice to meet ya 😁 ;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   
 </p>
-<hr>
 
-
-
-![image](https://user-images.githubusercontent.com/106314226/207843888-b13f2d8f-8834-4ed8-90cf-830cb89de778.png)
 
 <hr>
 
