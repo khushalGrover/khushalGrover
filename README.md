@@ -16,7 +16,8 @@ I am a student pursuing MCA with specilization in Cloud Coputing from Chandigrah
 <hr>
 
 <!-- [![KhushalGrover's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalGrover)](https://github.com/KhushalGrover) -->
-
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalGrover&theme=neon-palenight&hide_border=false&properties=border">   
+  
 | <a href="https://github.com/khushalGrover"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalGrover&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KhushalGrover's github stats" /></a> | <a href="https://github.com/khushalGrover"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalGrover&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <h3> Languages, Tools & Technologies</h3>
