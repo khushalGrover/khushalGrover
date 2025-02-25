@@ -12,7 +12,7 @@
 
 <h3 > About </h3>
 
-I am a student pursuing MCA with specilization in Cloud Coputing from Chandigrah University, India. 
+I am Game Designer at DortexAI. I have done MCA with specilization in Cloud Coputing from Chandigrah University, India. 
 <hr>
 
 <!-- [![KhushalGrover's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalGrover)](https://github.com/KhushalGrover) -->
