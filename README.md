@@ -26,8 +26,8 @@ I am Game Designer at DortexAI. I have done MCA with specilization in Cloud Copu
   
   <img width="50px"  src="https://img.icons8.com/plasticine/512/github-squared.png"/>
   <img width="50px"  src="https://img.icons8.com/color/512/git.png"/>
-  <img width="50px"  src="https://img.icons8.com/color/512/linux.png"/>
-  <img width="50px"  src="https://img.icons8.com/fluency/512/blender-3d.png"/>
+  <img width="50px"  src="https://img.icons8.com/fluency/512/blender-3d.png"/> 
+  <img width="50px"  src="https://img.icons8.com/fluency/512/figma.png"/> 
   <img width="45px"  src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>
   <img width="50px"  src="https://img.icons8.com/color/512/c-sharp-logo-2.png"/>
   <img width="50px"  src="https://img.icons8.com/color/512/c-plus-plus-logo.png"/>
